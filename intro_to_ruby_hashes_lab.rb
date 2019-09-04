@@ -147,5 +147,4 @@ def monopoly_with_fourth_tier
      {"mortgage_value": "$400"}, shortline_railroad: {"mortgage_value": "$800"}}
    }
   }
-  binding.pry
 end
